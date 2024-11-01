@@ -15,7 +15,7 @@ func main() {
 
 	var checkint uint16 = 129
 	fmt.Println(checkint)
-	fmt.Printf("checking the type of checkint: %T \n",checkint)
+	
 
 	var checkfloat float32 = 124312543412451596808809790787007087087.888888841435434123354223214532
 	fmt.Println(checkfloat)
